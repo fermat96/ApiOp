@@ -1,0 +1,284 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\FPAPROGAPI002\\FPAPRODAPI002.csproj": {}
+  },
+  "projects": {
+    "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Desarrollo\\.nuget\\packages\\",
+        "outputPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Desarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Data\\Data.csproj": {
+                "projectPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Data\\Data.csproj"
+              },
+              "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Desarrollo\\.nuget\\packages\\",
+        "outputPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Desarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\Desarrollo\\.nuget\\packages\\",
+        "outputPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Desarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\FPAPROGAPI002\\FPAPRODAPI002.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\FPAPROGAPI002\\FPAPRODAPI002.csproj",
+        "projectName": "FPAPRODAPI002",
+        "projectPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\FPAPROGAPI002\\FPAPRODAPI002.csproj",
+        "packagesPath": "C:\\Users\\Desarrollo\\.nuget\\packages\\",
+        "outputPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\FPAPROGAPI002\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Desarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\business\\Business.csproj": {
+                "projectPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\business\\Business.csproj"
+              },
+              "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\FuentesRevisionGIT\\2024\\05 - Mayo\\Seguimiento Mayo\\Migraciones\\Ventas\\FPAVENTAPI001\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

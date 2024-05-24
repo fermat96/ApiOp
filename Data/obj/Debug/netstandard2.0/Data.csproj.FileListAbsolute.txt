@@ -1,0 +1,100 @@
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\soporte\Documents\resp\Web\API\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\arman\Downloads\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\arman\Downloads\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\arman\Downloads\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\arman\Downloads\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\arman\Downloads\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\arman\Downloads\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\arman\Downloads\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\arman\Downloads\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\arman\Downloads\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\arman\Downloads\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\arman\Downloads\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\user\Desktop\PAPEL\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\Administrator\Documents\2024\05.- Mayo\2- Enrique\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.dll
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.dll
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\bin\Debug\netstandard2.0\Entity.pdb
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.dll
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI001\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\bin\Debug\netstandard2.0\Data.dll
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\bin\Debug\netstandard2.0\Entity.dll
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\bin\Debug\netstandard2.0\Entity.pdb
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\obj\Debug\netstandard2.0\Data.dll
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\FPAPROGAPI002\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\bin\Debug\netstandard2.0\Data.dll
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\bin\Debug\netstandard2.0\Entity.dll
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\bin\Debug\netstandard2.0\Entity.pdb
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\obj\Debug\netstandard2.0\Data.dll
+C:\FuentesRevisionGIT\2024\05 - Mayo\Seguimiento Mayo\Migraciones\Ventas\FPAVENTAPI001\Data\obj\Debug\netstandard2.0\Data.pdb

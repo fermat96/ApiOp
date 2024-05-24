@@ -1,0 +1,9 @@
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Entity\obj\Release\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Entity\obj\Release\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Entity\obj\Release\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Entity\bin\Release\netstandard2.0\Entity.deps.json
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Entity\bin\Release\netstandard2.0\Entity.dll
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Entity\bin\Release\netstandard2.0\Entity.pdb
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Entity\obj\Release\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Entity\obj\Release\netstandard2.0\Entity.dll
+C:\Users\soporte\Downloads\FPAPROGAPI001\FPAPROGAPI001\Entity\obj\Release\netstandard2.0\Entity.pdb
